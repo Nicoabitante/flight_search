@@ -24,7 +24,7 @@ If you don't have Poetry installed:
     ```
 3. **Install dependencies**
     ```bash
-    curl -sSL https://install.python-poetry.org | python3 -
+    poetry install
     ```
 4. **Run App**
     ```bash
