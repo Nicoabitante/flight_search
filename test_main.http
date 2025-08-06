@@ -1,0 +1,7 @@
+# Test your FastAPI endpoints
+###
+
+GET http://127.0.0.1:8000/journeys/search?from=BUE&to=MAD&date=2021-12-31
+Accept: application/json
+
+###
